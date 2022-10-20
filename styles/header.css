@@ -1,0 +1,21 @@
+.header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top {
+    display: flex;
+    width: 50%;
+}
+.top ul {
+    width: 70%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.callToAction {
+    color:orange;
+    background-color: beige;
+    border-radius: 15px;
+    padding: 10px;
+}

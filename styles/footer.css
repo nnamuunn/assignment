@@ -1,0 +1,14 @@
+footer {
+    background-color: #063255;
+    color: white;
+    height: 463px;
+    width:1920px;
+}
+.footer {
+    display:flex;
+}
+.subscribe {
+    color: white;
+    background-color: orange;
+    border-radius: 2px;
+}
